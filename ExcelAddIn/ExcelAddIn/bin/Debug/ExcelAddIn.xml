@@ -1,0 +1,89 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ExcelAddIn
+</name>
+</assembly>
+<members>
+<member name="T:ExcelAddIn.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ExcelAddIn.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ExcelAddIn.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:ExcelAddIn.ThisRibbonCollection">
+
+</member>
+<member name="M:ExcelAddIn.ThisRibbonCollection.#ctor(Microsoft.Office.Tools.Ribbon.RibbonFactory)">
+
+</member>
+<member name="T:ExcelAddIn.ThisAddIn">
+
+</member>
+<member name="M:ExcelAddIn.ThisAddIn.#ctor(Microsoft.Office.Tools.Excel.ApplicationFactory,System.IServiceProvider)">
+
+</member>
+<member name="M:ExcelAddIn.ThisAddIn.Initialize">
+
+</member>
+<member name="M:ExcelAddIn.ThisAddIn.FinishInitialization">
+
+</member>
+<member name="M:ExcelAddIn.ThisAddIn.InitializeDataBindings">
+
+</member>
+<member name="M:ExcelAddIn.ThisAddIn.InitializeCachedData">
+
+</member>
+<member name="M:ExcelAddIn.ThisAddIn.InitializeData">
+
+</member>
+<member name="M:ExcelAddIn.ThisAddIn.BindToData">
+
+</member>
+<member name="M:ExcelAddIn.ThisAddIn.StartCaching(System.String)">
+
+</member>
+<member name="M:ExcelAddIn.ThisAddIn.StopCaching(System.String)">
+
+</member>
+<member name="M:ExcelAddIn.ThisAddIn.IsCached(System.String)">
+
+</member>
+<member name="M:ExcelAddIn.ThisAddIn.BeginInitialization">
+
+</member>
+<member name="M:ExcelAddIn.ThisAddIn.EndInitialization">
+
+</member>
+<member name="M:ExcelAddIn.ThisAddIn.InitializeControls">
+
+</member>
+<member name="M:ExcelAddIn.ThisAddIn.InitializeComponents">
+
+</member>
+<member name="M:ExcelAddIn.ThisAddIn.NeedsFill(System.String)">
+
+</member>
+<member name="M:ExcelAddIn.ThisAddIn.OnShutdown">
+
+</member>
+<member name="T:ExcelAddIn.Globals">
+
+</member>
+<member name="M:ExcelAddIn.Globals.#ctor">
+
+</member>
+</members>
+</doc>

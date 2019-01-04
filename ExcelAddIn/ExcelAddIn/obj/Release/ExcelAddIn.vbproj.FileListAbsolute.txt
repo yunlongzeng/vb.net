@@ -1,0 +1,17 @@
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\bin\Release\ExcelAddIn.dll
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\bin\Release\ExcelAddIn.pdb
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\bin\Release\ExcelAddIn.xml
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\bin\Release\ExcelAddIn.dll.manifest
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\bin\Release\ExcelAddIn.vsto
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Release\ExcelAddIn.vbproj.ResolveComReference.cache
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Release\ExcelAddIn.Ribbon1.resources
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Release\ExcelAddIn.Resources.resources
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Release\ExcelAddIn.vbproj.GenerateResource.cache
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Release\ExcelAddIn.vbproj.CoreCompileInputs.cache
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Release\ExcelAddIn.vbproj.CopyComplete
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Release\ExcelAddIn.dll
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Release\ExcelAddIn.xml
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Release\ExcelAddIn.pdb
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Release\ExcelAddIn.Form1.resources
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Release\ExcelAddIn.vbprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\bin\Debug\ExcelAddIn.dll
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\bin\Debug\ExcelAddIn.pdb
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\bin\Debug\ExcelAddIn.xml
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\bin\Debug\ExcelAddIn.dll.manifest
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\bin\Debug\ExcelAddIn.vsto
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Debug\ExcelAddIn.Ribbon1.resources
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Debug\ExcelAddIn.Resources.resources
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Debug\ExcelAddIn.vbproj.GenerateResource.cache
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Debug\ExcelAddIn.vbproj.CoreCompileInputs.cache
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Debug\ExcelAddIn.vbproj.CopyComplete
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Debug\ExcelAddIn.dll
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Debug\ExcelAddIn.xml
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Debug\ExcelAddIn.pdb
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Debug\ExcelAddIn.vbproj.ResolveComReference.cache
+C:\Users\shazengyun\source\repos\ExcelAddIn\ExcelAddIn\obj\Debug\ExcelAddIn.Form1.resources
